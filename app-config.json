@@ -1,18 +1,18 @@
 {
     "forceUpdate": "1.5.3",
     "deliveryInterval": 1,
-    "imgCacheDate": "2025-08-12T14:07:57.013242",
+    "imgCacheDate": "2025-08-12T16:02:45.997649",
     "categories": [
         {
             "id": "ef2742b3-35e9-4216-950a-c8d6d16c33b5",
             "sort": 100
         },
         {
-            "id": "c8c52119-e352-4f73-990d-5dda106a3b67",
+            "id": "c952baa2-68f3-4ee8-9a34-4cc6758a3ff2",
             "sort": 99
         },
         {
-            "id": "c952baa2-68f3-4ee8-9a34-4cc6758a3ff2",
+            "id": "c8c52119-e352-4f73-990d-5dda106a3b67",
             "sort": 98
         },
         {
