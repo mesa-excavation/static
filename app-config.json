@@ -1,7 +1,7 @@
 {
     "forceUpdate": "1.5.3",
     "deliveryInterval": 1,
-    "imgCacheDate": "2025-12-04T19:53:34.841565",
+    "imgCacheDate": "2026-01-08T22:44:14.487394",
     "categories": [
         {
             "id": "ef2742b3-35e9-4216-950a-c8d6d16c33b5",
@@ -22,6 +22,10 @@
         {
             "id": "f76ddada-dd43-4207-bc9b-61bb29917f67",
             "sort": 96
+        },
+        {
+            "id": "1e718818-3d62-413a-94df-277b1b3f4272",
+            "sort": 0
         }
     ]
 }
