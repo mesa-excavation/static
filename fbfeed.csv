@@ -1,10 +1,16 @@
 id;title;description;gender;age_group;availability;inventory;condition;price;sale_price;link;image_link;brand;size;product_type;item_group_id
+deb4c7e8-9f19-4b83-8073-ba660375be3f;Boss Футболка;"Цвет: Белый
+Материал: 93% Полиэстер 7% Эластан
+Производитель: Вьетнам";men;adult;in stock;0;new;1249.00 TJS;1249.00 TJS;https://hayamm.com/men/E7DE220F5C;https://storage.googleapis.com/static.ququ.shop/img/product/600x866/E7DE220F5C-0.jpg?v7;Boss;size: one size;Футболки;E7DE220F5C
 0aecad6c-016e-431d-b794-199fab3d8c31;Boss Ветровка;"Цвет: Черный
 Материал: 99% Полиэстер 1% Эластан
 Производство: Турция";men;adult;in stock;0;new;2499.00 TJS;1999.00,00 TJS;https://hayamm.com/men/927D45C7AE;https://storage.googleapis.com/static.ququ.shop/img/product/600x866/927D45C7AE-0.jpg?v7;Boss;size: one size;Куртки и ветровки;927D45C7AE
 1f3876b5-01fc-4673-9521-df2e7a75693b;Boss Спортивные штаны;"Цвет: Черный
 Материал: 99% Полиэстер 1% Эластан
 Производство: Турция";men;adult;in stock;0;new;2199.00 TJS;1999.00,00 TJS;https://hayamm.com/men/AB1FFC6543;https://storage.googleapis.com/static.ququ.shop/img/product/600x866/AB1FFC6543-0.jpg?v7;Boss;size: one size;Спортивные штаны;AB1FFC6543
+f8838c1b-6365-4624-800e-c8a05b0dd684;Boss Поло;"Цвет: Белый
+Материал: 92% Хлопок 8% Эластан
+Производство: Бангладеш";men;adult;in stock;0;new;1799.00 TJS;1799.00 TJS;https://hayamm.com/men/91144231D7;https://storage.googleapis.com/static.ququ.shop/img/product/600x866/91144231D7-0.jpg?v7;Boss;size: one size;Поло;91144231D7
 dc7a6c2e-ee4d-4744-8b02-8240d8ab5467;Boss Бейсболка;"Окунитесь в мир высококлассного стиля с кепкой BOSS с регулируемым козырьком, в которой функциональность сочетается с культовым стилем бренда. Этот элегантный аксессуар не просто защищает от солнца, но и подчеркивает изысканность благодаря яркой вышивке и классическому логотипу, который ни с чем не спутаешь. Созданный с предельным вниманием к деталям, он представляет собой идеальное сочетание комфорта и роскоши.
 
 Цвет: черный
@@ -13,24 +19,18 @@ dc7a6c2e-ee4d-4744-8b02-8240d8ab5467;Boss Бейсболка;"Окунитесь
 f43f1c14-c7c7-4829-bdc5-631d5d4f1d98;Boss Кроссовки;"Цвет: Черный
 Состав: 100% Натуральная кожа
 Производитель: Вьетнам";men;adult;in stock;0;new;2499.00 TJS;2499.00 TJS;https://hayamm.com/men/43627A62D1;https://storage.googleapis.com/static.ququ.shop/img/product/600x866/43627A62D1-0.jpg?v7;Boss;size: one size;Кроссовки;43627A62D1
-f8838c1b-6365-4624-800e-c8a05b0dd684;Boss Поло;"Цвет: Белый
-Материал: 92% Хлопок 8% Эластан
-Производство: Бангладеш";men;adult;in stock;0;new;1799.00 TJS;1799.00 TJS;https://hayamm.com/men/91144231D7;https://storage.googleapis.com/static.ququ.shop/img/product/600x866/91144231D7-0.jpg?v7;Boss;size: one size;Поло;91144231D7
-b707df04-ff97-4ca1-aead-b09aa2eb4742;Boss Спортивные штаны;"Цвет: Синий
-Материал: 99% Полиэстер 1% Эластан
-Производство: Турция";men;adult;in stock;0;new;2199.00 TJS;1999.00,00 TJS;https://hayamm.com/men/6D2CCC1096;https://storage.googleapis.com/static.ququ.shop/img/product/600x866/6D2CCC1096-0.jpg?v7;Boss;size: one size;Спортивные штаны;6D2CCC1096
 bca1ba95-80ca-4a2c-83d1-d5f0d45e1b79;Boss Бейсболка;"Стильная мужская кепка BOSS с классическим дизайном и белым контрастным логотипом. Изготовлена из 100% высококачественной хлопковой саржи с нанесенной окантовкой и удобной застежкой на металлическую пряжку. Идеально подходит для повседневных образов.
 
 Цвет: тёмно-синий
 Материал: 100% хлопок
 Производитель: Бангладеш";men;adult;in stock;4;new;1049.00 TJS;1049.00 TJS;https://hayamm.com/men/CDF9537350;https://storage.googleapis.com/static.ququ.shop/img/product/600x866/CDF9537350-0.jpg?v7;Boss;size: one size;Бейсболки;CDF9537350
+b707df04-ff97-4ca1-aead-b09aa2eb4742;Boss Спортивные штаны;"Цвет: Синий
+Материал: 99% Полиэстер 1% Эластан
+Производство: Турция";men;adult;in stock;0;new;2199.00 TJS;1999.00,00 TJS;https://hayamm.com/men/6D2CCC1096;https://storage.googleapis.com/static.ququ.shop/img/product/600x866/6D2CCC1096-0.jpg?v7;Boss;size: one size;Спортивные штаны;6D2CCC1096
 aa60bcb0-5d0e-4c0b-9cbc-c0f1a8788137;Boss Ветровка;"Цвет: Темно-синий
 Материал: 99% Полиэстер 1% Эластан
 Производство: Турция";men;adult;in stock;0;new;2499.00 TJS;1999.00,00 TJS;https://hayamm.com/men/4991216FAF;https://storage.googleapis.com/static.ququ.shop/img/product/600x866/4991216FAF-0.jpg?v7;Boss;size: one size;Куртки и ветровки;4991216FAF
 634018fd-aecc-4584-9357-4110ad674d3a;Boss Поло;Дополните свой гардероб изысканным поло BOSS в неподвластном времени дизайне, созданном специально для современного мужчины. Это поло с коротким рукавом, украшенное тонким, но эффектным принтом и культовым логотипом BOSS, является смелым воплощением элегантности и стиля. Классическая посадка на двух пуговицах обеспечивает комфорт и универсальность для любого случая.;men;adult;in stock;0;new;1799.00 TJS;1799.00 TJS;https://hayamm.com/men/D9FB412D11;https://storage.googleapis.com/static.ququ.shop/img/product/600x866/D9FB412D11-0.jpg?v7;Boss;size: one size;Поло;D9FB412D11
-deb4c7e8-9f19-4b83-8073-ba660375be3f;Boss Футболка;"Цвет: Белый
-Материал: 93% Полиэстер 7% Эластан
-Производитель: Вьетнам";men;adult;in stock;0;new;1249.00 TJS;1249.00 TJS;https://hayamm.com/men/E7DE220F5C;https://storage.googleapis.com/static.ququ.shop/img/product/600x866/E7DE220F5C-0.jpg?v7;Boss;size: one size;Футболки;E7DE220F5C
 be0d75e2-b65f-48fe-b5ee-713b03399110;Boss Кроссовки;Country of Origin: Vietnam;men;adult;in stock;0;new;2499.00 TJS;2499.00 TJS;https://hayamm.com/men/0D3DE27C92;https://storage.googleapis.com/static.ququ.shop/img/product/600x866/0D3DE27C92-0.jpg?v7;Boss;size: one size;Кроссовки;0D3DE27C92
 24891532-d2ea-4799-bf52-679689e0bc4e;EA7 Ветровка;Откройте для себя куртку EA7, изготовленную из 100% технологичного полиамида, которая идеально подходит для спортивного и современного образа. Эта куртка создана для обеспечения комфорта и легкости, что делает ее идеальной для весенних и осенних дней. Застежка-молния спереди и высокий воротник обеспечивают надежную посадку, а вышитый логотип EA7 на груди придает модели особый стиль. Носите ее ежедневно или на досуге, легко сочетая с джинсами или повседневными брюками.;men;adult;in stock;0;new;2799.00 TJS;1999.00,00 TJS;https://hayamm.com/men/0FF8206733;https://storage.googleapis.com/static.ququ.shop/img/product/600x866/0FF8206733-0.jpg?v7;EA7;size: one size;Куртки и ветровки;0FF8206733
 ce1b15b4-09a5-4f2e-ae92-6ccb24f504ca;Hugo Boss Поло;Обретите безупречный стиль с поло Hugo Boss. Модель из высококачественного хлопка гарантирует исключительный комфорт и свободу движений. Элегантный силуэт slim fit и вышитый логотип подчеркивают статус и безупречный вкус. Это идеальная основа для любого современного образа — от повседневного до делового-кэжуал.;men;adult;in stock;0;new;1299.00 TJS;1299.00,00 TJS;https://hayamm.com/men/F4AAE2B9BC;https://storage.googleapis.com/static.ququ.shop/img/product/600x866/F4AAE2B9BC-0.jpg?v7;Hugo Boss;size: one size;Поло;F4AAE2B9BC
